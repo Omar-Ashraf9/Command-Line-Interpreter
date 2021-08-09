@@ -1,0 +1,32 @@
+cd           changes the current directory.               |cd [directory]
+
+cp           copies one or more files to another location.|cp Src_file Dest_file
+
+mv           moves one or more files from one
+ 	     directory to another.                        |mv Src Dest
+
+rm           removes each file specified on the 
+	     command line.	                          |rm file1,file2..
+
+pwd          prints the name of the 
+	     working directory.		                  |No Argument.
+
+cat          reads data from files, and outputs 
+	     their contents.	                          |cat file1,file2..
+
+date         display the system date and time.            |No Argument.
+
+help         produce a list of commands and 
+	     their usage.                                 |help [command]
+
+ls           list all files that existing in the 
+	     current directory.                           |No Argument.
+
+more         displays additional information one 
+	     page at a time.                              |more [filename].
+
+mkdir        creates new directories in a file system.    |mkdir [directories].
+
+clear        clear the screen and all commands.           |No Argument
+
+rmdir        remove empty directories.      		  |redir [filename].
